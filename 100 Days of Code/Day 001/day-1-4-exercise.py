@@ -14,7 +14,6 @@ b = input("b: ")
 
 b, a = a, b
 
-
 #Write your code above this line 👆
 ####################################
 
