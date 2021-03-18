@@ -3,6 +3,12 @@
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-100%20days%20of%20python-orange)
 
+Tools
+Python
+
+http://pythontutor.com/visualize.html#mode=edit
+
+
 `Certificate:` [Access here]()
 </br></br>
 `Duration:` 100 dias, 63.5 horas
