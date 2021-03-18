@@ -3,18 +3,14 @@
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-100%20days%20of%20python-orange)
 
-Tools
-Python
-
-http://pythontutor.com/visualize.html#mode=edit
-
-
 `Certificate:` [Access here]()
 </br></br>
 `Duration:` 100 dias, 63.5 horas
 </br></br>
 Course: [https://100daysofpython.dev/](https://100daysofpython.dev/)
 </br></br>
+
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/masedos/100-Days-of-Code-Python)
 
 **What You'll Learn**
 
