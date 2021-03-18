@@ -2,6 +2,12 @@
 
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-100%20days%20of%20python-orange)
+![GitHub Python version](https://img.shields.io/badge/python-3.8-green)
+![GitHub Replit](https://img.shields.io/badge/-replit.com-yellowgreen)
+![GitHub Python Tutor](https://img.shields.io/badge/-pythontutor.com-blue)
+
+
+
 
 `Certificate:` [Access here]()
 </br></br>
@@ -10,7 +16,7 @@
 Course: [https://100daysofpython.dev/](https://100daysofpython.dev/)
 </br></br>
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/masedos/100-Days-of-Code-Python)
+
 
 **What You'll Learn**
 
