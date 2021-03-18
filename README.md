@@ -12,7 +12,7 @@
 </br></br>
 `Duration:` 100 dias, 63.5 horas
 </br></br>
-Course: [https://100daysofpython.dev/](https://100daysofpython.dev/)
+Course: [100 days of python](https://100daysofpython.dev/) or [udemy](https://www.udemy.com/course/100-days-of-code/)
 </br></br>
 
 
