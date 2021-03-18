@@ -1,11 +1,10 @@
 ## 100 Days of Code - The Complete Python Pro Bootcamp for 2021
 
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
-![GitHub repo size](https://img.shields.io/badge/-100%20days%20of%20python-orange)
-![GitHub Python version](https://img.shields.io/badge/python-3.8-green)
-![GitHub Replit](https://img.shields.io/badge/-replit.com-yellowgreen)
-![GitHub Python Tutor](https://img.shields.io/badge/-pythontutor.com-blue)
-
+[![](https://img.shields.io/badge/-100%20days%20of%20python-orange)](https://www.linkedin.com/in/masedos/)
+[![](https://img.shields.io/badge/python-3.8-green)](https://www.python.org/downloads/)
+[![](https://img.shields.io/badge/-replit.com-yellowgreen)](https://replit.com/@masedos/100-Days-of-Code-Python#)
+[![](https://img.shields.io/badge/-pythontutor.com-blue)](http://pythontutor.com/live.html)
 
 
 
