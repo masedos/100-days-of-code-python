@@ -4,5 +4,11 @@ __version__ = '0.0.1'
 __author__ = 'Fernandes Macedo'
 __email__ = 'masedos@gmail.com'
 
-digits = input("Type a two digits number: ")
-print(int(digits[0]) + int(digits[1]))
+# 🚨 Don't change the code below 👇
+two_digit_number = input("Type a two digit number: ")
+# 🚨 Don't change the code above 👆
+
+####################################
+#Write your code below this line 👇
+
+print(int(two_digit_number[0]) + int(two_digit_number[1]))
