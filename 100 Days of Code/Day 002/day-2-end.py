@@ -6,3 +6,17 @@ __email__ = 'masedos@gmail.com'
 
 num_char = len(input("What is your name? "))
 print("Your name has " + str(num_char) + " characters.")
+
+
+
+print("""
+
+P E M D A S
+Parentheses
+Exponentes
+Multiplication
+Division
+Addition
+Substraction
+
+""")
