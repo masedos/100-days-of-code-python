@@ -42,5 +42,8 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 [Day 003 - Beginner - Control Flow and Logical Operators](../../tree/main/100%20Days%20of%20Code/Day%20003)
 
+[Day 004 - Beginner -
+Randomisation and Python Lists](../../tree/main/100%20Days%20of%20Code/Day%20004)
+
 
 [![](https://github.com/masedos/100-days-of-code-python/blob/main/folder.jpg)](https://www.linkedin.com/in/masedos/)
